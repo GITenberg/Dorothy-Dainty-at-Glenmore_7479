@@ -1,0 +1,25 @@
+_repo: Dorothy-Dainty-at-Glenmore_7479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooks, Amy
+    gutenberg_agent_id: '1796'
+    url: http://www.gutenberg.org/2009/agents/1796
+description: Illustrated by the author.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- GITenberg
+title: Dorothy Dainty at Glenmore
+url: http://www.gutenberg.org/ebooks/7479
