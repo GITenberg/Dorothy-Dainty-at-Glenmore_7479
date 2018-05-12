@@ -1,11 +1,16 @@
 _repo: Dorothy-Dainty-at-Glenmore_7479
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 7479-h/images/cover.jpg
 creator:
   author:
     agent_name: Brooks, Amy
     gutenberg_agent_id: '1796'
     url: http://www.gutenberg.org/2009/agents/1796
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7479#Dorothy-Dainty-at-Glenmore
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
